@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Autoverwaltung
 {
-    class Auto
+    public class Auto
     {
         protected string Marke;
         protected string Modell;
@@ -27,9 +25,6 @@ namespace Autoverwaltung
         {
 
         }
-     
-
-       
 
         //Getter+Setter
         public void setMarke(string nMarke)

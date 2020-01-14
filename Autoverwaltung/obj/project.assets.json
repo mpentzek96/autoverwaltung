@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\privat\\Desktop\\Autoverwaltung\\Autoverwaltung\\Autoverwaltung\\Autoverwaltung.csproj",
+      "projectUniqueName": "C:\\repos\\Autoverwaltung\\Autoverwaltung\\Autoverwaltung.csproj",
       "projectName": "Autoverwaltung",
-      "projectPath": "C:\\Users\\privat\\Desktop\\Autoverwaltung\\Autoverwaltung\\Autoverwaltung\\Autoverwaltung.csproj",
+      "projectPath": "C:\\repos\\Autoverwaltung\\Autoverwaltung\\Autoverwaltung.csproj",
       "packagesPath": "C:\\Users\\privat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\privat\\Desktop\\Autoverwaltung\\Autoverwaltung\\Autoverwaltung\\obj\\",
+      "outputPath": "C:\\repos\\Autoverwaltung\\Autoverwaltung\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\privat\\AppData\\Roaming\\NuGet\\NuGet.Config",

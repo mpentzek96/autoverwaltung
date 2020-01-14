@@ -1,11 +1,11 @@
-C:\Users\marek\Desktop\C# Programming\Autoverwaltung\Autoverwaltung\bin\Debug\netcoreapp3.1\Autoverwaltung.exe
-C:\Users\marek\Desktop\C# Programming\Autoverwaltung\Autoverwaltung\bin\Debug\netcoreapp3.1\Autoverwaltung.deps.json
-C:\Users\marek\Desktop\C# Programming\Autoverwaltung\Autoverwaltung\bin\Debug\netcoreapp3.1\Autoverwaltung.runtimeconfig.json
-C:\Users\marek\Desktop\C# Programming\Autoverwaltung\Autoverwaltung\bin\Debug\netcoreapp3.1\Autoverwaltung.runtimeconfig.dev.json
-C:\Users\marek\Desktop\C# Programming\Autoverwaltung\Autoverwaltung\bin\Debug\netcoreapp3.1\Autoverwaltung.dll
-C:\Users\marek\Desktop\C# Programming\Autoverwaltung\Autoverwaltung\bin\Debug\netcoreapp3.1\Autoverwaltung.pdb
-C:\Users\marek\Desktop\C# Programming\Autoverwaltung\Autoverwaltung\obj\Debug\netcoreapp3.1\Autoverwaltung.AssemblyInfoInputs.cache
-C:\Users\marek\Desktop\C# Programming\Autoverwaltung\Autoverwaltung\obj\Debug\netcoreapp3.1\Autoverwaltung.AssemblyInfo.cs
-C:\Users\marek\Desktop\C# Programming\Autoverwaltung\Autoverwaltung\obj\Debug\netcoreapp3.1\Autoverwaltung.dll
-C:\Users\marek\Desktop\C# Programming\Autoverwaltung\Autoverwaltung\obj\Debug\netcoreapp3.1\Autoverwaltung.pdb
-C:\Users\marek\Desktop\C# Programming\Autoverwaltung\Autoverwaltung\obj\Debug\netcoreapp3.1\Autoverwaltung.csprojAssemblyReference.cache
+C:\repos\Autoverwaltung\Autoverwaltung\bin\Debug\netcoreapp3.1\Autoverwaltung.exe
+C:\repos\Autoverwaltung\Autoverwaltung\bin\Debug\netcoreapp3.1\Autoverwaltung.deps.json
+C:\repos\Autoverwaltung\Autoverwaltung\bin\Debug\netcoreapp3.1\Autoverwaltung.runtimeconfig.json
+C:\repos\Autoverwaltung\Autoverwaltung\bin\Debug\netcoreapp3.1\Autoverwaltung.runtimeconfig.dev.json
+C:\repos\Autoverwaltung\Autoverwaltung\bin\Debug\netcoreapp3.1\Autoverwaltung.dll
+C:\repos\Autoverwaltung\Autoverwaltung\bin\Debug\netcoreapp3.1\Autoverwaltung.pdb
+C:\repos\Autoverwaltung\Autoverwaltung\obj\Debug\netcoreapp3.1\Autoverwaltung.csprojAssemblyReference.cache
+C:\repos\Autoverwaltung\Autoverwaltung\obj\Debug\netcoreapp3.1\Autoverwaltung.AssemblyInfoInputs.cache
+C:\repos\Autoverwaltung\Autoverwaltung\obj\Debug\netcoreapp3.1\Autoverwaltung.AssemblyInfo.cs
+C:\repos\Autoverwaltung\Autoverwaltung\obj\Debug\netcoreapp3.1\Autoverwaltung.dll
+C:\repos\Autoverwaltung\Autoverwaltung\obj\Debug\netcoreapp3.1\Autoverwaltung.pdb
